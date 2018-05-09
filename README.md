@@ -5,3 +5,5 @@ https://kuausonho.github.io/ex.html
 <br><br>
 Segue o equema adotado para implementação do fluxo de funcionamento do site:<br>
 [Esquema](docs/esquema.pdf)
+<br><br>
+Site https://williamsrb.github.io/kuau_exercicio/
